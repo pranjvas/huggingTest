@@ -1,0 +1,172 @@
+[
+  {
+    "cluster": 0,
+    "size": 175,
+    "keywords": [
+      "grok",
+      "gork",
+      "pranjalvaswani",
+      "let",
+      "bitchat",
+      "com",
+      "timxemusic",
+      "mathematics"
+    ],
+    "sentiment": {
+      "compound_mean": 0.1265,
+      "positive_mean": 0.0931,
+      "negative_mean": 0.0443,
+      "neutral_mean": 0.7083
+    },
+    "temporal": {
+      "most_common_day": "Tuesday",
+      "avg_hour": 11.52
+    },
+    "lexical": {
+      "avg_lexical_diversity": 0.788,
+      "avg_word_count": 11.3314,
+      "avg_hashtags": 0.04,
+      "avg_mentions": 0.6286
+    },
+    "engagement": {
+      "median_engagement": 9.0,
+      "mean_engagement": 5161.13
+    }
+  },
+  {
+    "cluster": 1,
+    "size": 1,
+    "keywords": [
+      "eclipse",
+      "blood",
+      "moon",
+      "fresh",
+      "freedom",
+      "free",
+      "freak",
+      "fractals"
+    ],
+    "sentiment": {
+      "compound_mean": 0.4588,
+      "positive_mean": 0.333,
+      "negative_mean": 0.0,
+      "neutral_mean": 0.667
+    },
+    "temporal": {
+      "most_common_day": "Monday",
+      "avg_hour": 8.0
+    },
+    "lexical": {
+      "avg_lexical_diversity": 1.0,
+      "avg_word_count": 4.0,
+      "avg_hashtags": 0.0,
+      "avg_mentions": 0.0
+    },
+    "engagement": {
+      "median_engagement": 14214.0,
+      "mean_engagement": 14214.0
+    }
+  },
+  {
+    "cluster": 2,
+    "size": 1,
+    "keywords": [
+      "monopoly",
+      "playing",
+      "blackjack",
+      "money",
+      "freak",
+      "fractals",
+      "foundational",
+      "forth"
+    ],
+    "sentiment": {
+      "compound_mean": 0.2023,
+      "positive_mean": 0.205,
+      "negative_mean": 0.0,
+      "neutral_mean": 0.795
+    },
+    "temporal": {
+      "most_common_day": "Monday",
+      "avg_hour": 17.0
+    },
+    "lexical": {
+      "avg_lexical_diversity": 1.0,
+      "avg_word_count": 5.0,
+      "avg_hashtags": 0.0,
+      "avg_mentions": 0.0
+    },
+    "engagement": {
+      "median_engagement": 6.0,
+      "mean_engagement": 6.0
+    }
+  },
+  {
+    "cluster": 3,
+    "size": 1,
+    "keywords": [
+      "suraj_mukhiii",
+      "free",
+      "freak",
+      "fractals",
+      "foundational",
+      "forth",
+      "form",
+      "food"
+    ],
+    "sentiment": {
+      "compound_mean": 0.0,
+      "positive_mean": 0.0,
+      "negative_mean": 0.0,
+      "neutral_mean": 1.0
+    },
+    "temporal": {
+      "most_common_day": "Tuesday",
+      "avg_hour": 11.0
+    },
+    "lexical": {
+      "avg_lexical_diversity": 1.0,
+      "avg_word_count": 1.0,
+      "avg_hashtags": 0.0,
+      "avg_mentions": 1.0
+    },
+    "engagement": {
+      "median_engagement": 2.0,
+      "mean_engagement": 2.0
+    }
+  },
+  {
+    "cluster": 4,
+    "size": 2,
+    "keywords": [
+      "elonm0st",
+      "q_slavic",
+      "redefineddivine",
+      "drqsatoshin",
+      "timxemusic",
+      "coming",
+      "main",
+      "wild"
+    ],
+    "sentiment": {
+      "compound_mean": 0.2803,
+      "positive_mean": 0.139,
+      "negative_mean": 0.0,
+      "neutral_mean": 0.861
+    },
+    "temporal": {
+      "most_common_day": "Monday",
+      "avg_hour": 8.0
+    },
+    "lexical": {
+      "avg_lexical_diversity": 0.9643,
+      "avg_word_count": 12.0,
+      "avg_hashtags": 0.0,
+      "avg_mentions": 5.5
+    },
+    "engagement": {
+      "median_engagement": 5.0,
+      "mean_engagement": 5.0
+    }
+  }
+]
